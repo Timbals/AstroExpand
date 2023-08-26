@@ -1,5 +1,7 @@
 # AstroExpand
 
+![screen1.png](screen1.png)
+
 // ludum dare entry description
 
 You run your own planet. Your goal is to make the planet bigger by injecting rocks into it. 
@@ -16,3 +18,5 @@ You have to purchase a gun and shoot the alien spaceships to prevent them from s
 	E - interact/purchase item
 	C - open shop
 	SPACE - shoot upwards (after purchasing a gun)
+
+![screen2.png](screen2.png)
